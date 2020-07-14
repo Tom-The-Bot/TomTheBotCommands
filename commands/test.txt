@@ -1,0 +1,2 @@
+TYPE FOR 10 s
+REPLY Hello, World!
