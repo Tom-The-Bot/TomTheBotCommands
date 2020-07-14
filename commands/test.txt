@@ -1,2 +1,2 @@
-TYPE FOR 10 s
+TYPE FOR 5 s
 REPLY Hello, World!
