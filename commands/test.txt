@@ -1,2 +1,2 @@
-TYPE 5
+TYPE
 REPLY Hello, World!
