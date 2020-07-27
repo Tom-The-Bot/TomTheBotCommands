@@ -1,0 +1,18 @@
+TYPE 3
+REPLY * breaths *
+TYPE 2
+REPLY Right
+TYPE 1
+REPLY Tyler is a good admin
+TYPE 3
+REPLY He is not a noob
+TYPE 4
+REPLY Tom is somewhat of a noob
+TYPE 2
+REPLY (but still a better programmer)
+TYPE 3
+REPLY Now that I have said this, Tyler please, can I have my admin back.
+TYPE 2
+REPLY Or else
+TYPE 1
+REPLY jk
